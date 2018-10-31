@@ -1,0 +1,24 @@
+{
+    "todos": [
+        {
+            "title": "Mi first todo",
+            "responsible": "Mik",
+            "description": "Have a time to work",
+            "priority": "low"
+        },
+        {
+            "title": "Go to Market",
+            "responsible": "Yowli",
+            "description": "Market Food",
+            "priority": "medium"
+        },
+        {
+            "title": "Terminate Landing",
+            "responsible": "Zalaz",
+            "description": "Functions, color and usuability action from page",
+            "priority": "high"
+        }
+        
+
+    ]
+}
